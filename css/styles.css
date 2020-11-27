@@ -62,7 +62,7 @@ p {
 .nav-link {
   font-size: 1.2rem;
   font-family: 'Montserrat', sans-serif;
-  font-weight: 100;
+  font-weight: light;
 }
 
 /* Download Buttons */
